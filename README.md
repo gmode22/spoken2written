@@ -6,12 +6,6 @@ This is a Python module which can that can convert a paragraph of spoken english
  For example, "two dollars" should be converted to $2. Abbreviations spoken as "C M" or "Triple A" should be written as "CM" and "AAA" respectively.
 
 
-
-## Note: 
-
-   **For the Above input paragraph the incorrect output as a result of improper use of spaces after '.' and ','.  So currently 	  	you have to keep in mind while writing the paragraph to consider proper use of spaces. Because this is not an intelligence-	based program this is simple rule-based. I will keep being updating the rules so that it can cover maximum cases.**
-
-
 ## Here are some possible future functionalities that  can be covered in the future versions of the module:
 
 1.   If the paragraph contains a money figure e.g. two million three thousand nine hundred and eighty-four then we may convert it to numbers as 2003984.
