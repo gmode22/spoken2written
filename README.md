@@ -5,6 +5,9 @@ This is a Python module which can that can convert a paragraph of spoken english
 
  For example, "two dollars" should be converted to $2. Abbreviations spoken as "C M" or "Triple A" should be written as "CM" and "AAA" respectively.
 
+## Adding new rules:
+1. We can define a structure for rules and save them in a file and retrive them when needed and we will add new rules as we discover.
+2. By pipelining these rules we can check for rules in a paragraph one by one.
 
 ## Here are some possible future functionalities that  can be covered in the future versions of the module:
 
